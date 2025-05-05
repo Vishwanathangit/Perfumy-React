@@ -52,7 +52,7 @@ Perfumy-React/
 
 📦 Installation
 
-git clone https://github.com/yourusername/perfumy-react.git
+git clone https://github.com/Vishwanathangit/Perfumy-React.git
 cd perfumy-react
 npm install
 npm start

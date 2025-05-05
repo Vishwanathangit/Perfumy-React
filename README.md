@@ -18,14 +18,20 @@ Check out the live version here:
 - 🗂️ Modular folder structure
 
 📁 Project Structure
+<pre>
+  ```
 src/
 ├── assets/images # Product images
 ├── components # Reusable React components
 ├── App.js # Main app component
 ├── index.js # Entry point
 └── style.css # Global stylesheet
+  ``` 
+</pre>
 
 📁 File Structure
+<pre>
+   ```
 Perfumy-React/
 ├── node_modules/
 ├── public/
@@ -48,6 +54,8 @@ Perfumy-React/
 ├── .gitignore
 ├── package.json
 └── README.md
+  ```
+</pre>
 
 
 📦 Installation

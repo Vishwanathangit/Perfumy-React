@@ -29,22 +29,22 @@ src/
 Perfumy-React/
 ├── node_modules/
 ├── public/
-│   └── index.html
+│ └── index.html
 ├── src/
-│   ├── assets/
-│   │   └── images/
-│   │       ├── one.jpg
-│   │       ├── two.jpg
-│   │       └── three.jpg
-│   ├── components/
-│   │   ├── About.js
-│   │   ├── Footer.js
-│   │   ├── Navbar.js
-│   │   ├── Products.js
-│   │   └── Search.js
-│   ├── App.js
-│   ├── index.js
-│   └── style.css
+│ ├── assets/
+│ │ └── images/
+│ │ ├── one.jpg
+│ │ ├── two.jpg
+│ │ └── three.jpg
+│ ├── components/
+│ │ ├── About.js
+│ │ ├── Footer.js
+│ │ ├── Navbar.js
+│ │ ├── Products.js
+│ │ └── Search.js
+│ ├── App.js
+│ ├── index.js
+│ └── style.css
 ├── .gitignore
 ├── package.json
 └── README.md
